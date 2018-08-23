@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2e8b159fbcffae448da478dfe42c62d
+timeCreated: 1525467486
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gc: {instanceID: 0}
+  - cursorTexture1: {fileID: 2800000, guid: db343f29b799b3f48869e023a9d4b688, type: 3}
+  - cursorTexture2: {fileID: 2800000, guid: 31809527585e1ad4bafc9d5f1245239a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
